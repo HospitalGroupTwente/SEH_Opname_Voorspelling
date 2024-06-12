@@ -1,0 +1,7 @@
+# config file for database connection
+driver: 
+server: 
+database: 
+uid: 
+pwd: 
+port: 

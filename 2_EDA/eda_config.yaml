@@ -1,0 +1,4 @@
+seh_data: '/export/home/jmaathuis/Documents/Data/SEH_SEHREG/05-09-2023_SEH_SEHREG_all.csv'
+lab_data: '/export/home/jmaathuis/Documents/Data/LAB/26-09-2023_LAB_incl_BLOEDGAS.csv'
+vital_data: '../data/03-10-2023_VITALS_TIME_incl_MEWS.csv'
+rad_data: '../data/16-10-2023_RAD.csv'

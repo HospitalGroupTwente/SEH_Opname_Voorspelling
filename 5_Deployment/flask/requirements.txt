@@ -1,0 +1,9 @@
+Flask==2.0.3
+joblib==1.1.1
+nltk==3.6.7
+numpy==1.19.5
+pandas==1.1.5
+PyYAML==6.0.1
+scikit_learn==0.24.2
+workalendar==16.4.0
+xgboost==1.5.2

@@ -1,0 +1,16 @@
+# scripts
+seh_script: './preprocessing/scripts/SEH_preprocessing.py'
+lab_script: './preprocessing/scripts/LAB_preprocessing.py'
+vital_script: './preprocessing/scripts/VITALS_preprocessing.py'
+
+# transformers
+feature_encoders_dir: './preprocessing/transformers/feature_encoders'
+lab_scalers_dir: './preprocessing/transformers/lab_scalers'
+vitals_scaler_dir: './preprocessing/transformers/vitals_scalers'
+
+# nlp
+nlp_vec: './models/klacht_vec.joblib'
+nlp_pred_model: './models/klacht_lr_model.joblib'
+
+# models
+model_dir: './models'
